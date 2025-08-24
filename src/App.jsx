@@ -3,7 +3,7 @@ import React from 'react'
 const App = () => {
   return (
     <div>
-      <h1> i hate clg</h1>
+      <h1> CICD PROJECT </h1>
     </div>
   )
 }
